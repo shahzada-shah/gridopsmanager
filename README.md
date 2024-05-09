@@ -24,7 +24,7 @@ Grid Ops Manager is a robust grid outage ticket system designed to help utilitie
 3. **Site Management:** View details about affected sites and their current operational capacity.
 4. **User Authentication:** Secure login system to ensure data integrity and security.
 
-![Main Page](https://github.com/shahzada-shah/gridopsmanager/blob/main/assets/createcrud.png)
+![Main Page](https://github.com/shahzada-shah/gridopsmanager/blob/main/assets/createcrudd.png)
 ![Main Page](https://github.com/shahzada-shah/gridopsmanager/blob/main/assets/updatecrud.png)
 
 ## Live Demo on AWS
